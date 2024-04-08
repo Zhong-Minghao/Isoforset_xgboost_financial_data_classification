@@ -8,9 +8,9 @@ The data being used is hidden for copyright. A project I used in a finance compe
 
 ```bash
 pip install xgboost
-
+pip install numpy
 pip install pandas
-
+pip install openpyxl
 pip install sklearn
 ```
 
