@@ -7,6 +7,10 @@ The data being used is hidden for copyright. A project I used in a finance compe
 ## Usage
 
 ```bash
-pip install -r requirements.txt
+pip install xgboost
+
+pip install pandas
+
+pip install sklearn
 ```
 
